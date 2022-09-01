@@ -1,2 +1,2 @@
-# Python
+# Numpy, Pandas
 Some Python pratice
