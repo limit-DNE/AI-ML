@@ -1,2 +1,4 @@
 # AI Code Demos
-This repo shows logistic/linear regression implementations in Java and Python, as well as with a demo of a simple NN.
+- Basics of Python, NumPy and Pandas
+- Regression and Classication examples (using Conda/Jupyter notebook)
+- Basic implementation of a deep neural network (Jupyter notebook)
